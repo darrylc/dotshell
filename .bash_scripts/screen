@@ -1,2 +1,0 @@
-alias screenres="/bin/screen -dRR"
-alias screendev="/bin/screen -c /home/centos/.screens/develop"

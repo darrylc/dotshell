@@ -1,0 +1,1 @@
+alias tmuxres="tmux -CC attach || tmux -CC"
